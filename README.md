@@ -1,3 +1,7 @@
+theme:jekyll-theme-cayman
+title:Welcome to Jeanie's homepage!
+description:Thank you for visiting - I'll be posting my project updates here.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jeanie-mca/jeanie-mca.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
